@@ -7,7 +7,9 @@
 
 then launch tmux source ~/.config/tmux/tmux.conf
 
-## Panes navigation
+## Panes & navigation
 | Keybinding | Description |
 | ---------- | ----------- |
 | ctrl h,j,k,l | To switch panes |
+| ctrl % | Split horizontally |
+| ctrl " | Split vertically |
